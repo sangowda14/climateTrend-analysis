@@ -8,6 +8,7 @@ This research paper focuses on analyzing historical weather data of Karnataka, I
 📁 Files Included
 - Published research paper
 - Visualizations from the Study-alltheresult
+- PPT presentation used for the conference 
 
 
 🛠️ Tools Used
